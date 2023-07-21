@@ -1,0 +1,7 @@
+torch
+scipy
+matplotlib
+notebook
+pandas
+tqdm
+mypy
