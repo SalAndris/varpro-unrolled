@@ -24,5 +24,5 @@ python train.py
 
 Run type checking:
 ```bash
-mypy . --install-types --non-interactive --ignore-missing-imports
+mypy . --ignore-missing-imports
 ```
